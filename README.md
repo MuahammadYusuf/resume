@@ -4,8 +4,19 @@
 
 [Github](https://github.com/muahammadyusuf)  |  [LinkedIn](https://www.linkedin.com/in/abduvohidov/)  |  [Email](abduvohidovm20@gmail.com)
 
+
 Front-end Developer with experience working on projects involving JavaScript, React , Redux , various styling libraries , HTML/CSS Preprocessors (SASS), RESTful APIs, web optimization, and version control (Git).
 I also have experience working in Agile environments, on remote teams, and with various internal/external stakeholders.
+
+# AGILE SOFTWARE DEVELOPMENT
+- Agile
+- Scrum
+- Kanban
+- Tools: Jira, Trello,
+
+# PROGRAMMING
+- 1 years programming experience
+- 7 months working experience
 
 # Skills
 
@@ -18,19 +29,15 @@ I also have experience working in Agile environments, on remote teams, and with 
 
 # Experience 
 
-Nolbir | C-space - Tashkent | Front-end Developer | February 2021- Present - Contractor from Nolbir
+Nolbir | C-space - Tashkent | Front-end Developer | December 2021- January-2022 - Contractor from Nolbir
 
 - Code reviewing
 - Optimizing components
 - Performance optimization 
 - Build the admin module
-- SEO
-- Google analytics 
-- Facebook Pixel 
 - Integration of API
-- Compatible with SWR
-- Leads to Admin panel/Telegram
-
+- Refactoring code 
+- Add new functions
 
 Hopemedical - Tashkent | Frontend developer | February 2021 - Contractor from Nolbir | 
 Link website : [Hopemedical](https://www.hopemedical.uz)
@@ -58,6 +65,10 @@ Link website : [AmanaTrade](https://amanatrade.com/)
 - Creating UI components
 - Creating reusable smart components
 - Integration of API
+
+# EDUCATION
+- Pdp Academy
+
 
 # LANGUAGES
 - Uzbek - Fluent
