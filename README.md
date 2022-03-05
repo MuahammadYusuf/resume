@@ -28,6 +28,13 @@ I also have experience working in Agile environments, on remote teams, and with 
 - OS : MacOS, Windows, 7 Ubuntu 16.04, 17.01. 
 
 # Experience 
+Nolbir | Ecomerse | Front-end Developer | January 2022- Present 
+
+- React Table 
+- Optimizing components
+- Performance optimization 
+- Creating UI components
+- Add new functions
 
 Nolbir | C-space - Tashkent | Front-end Developer | December 2021- January-2022 - Contractor from Nolbir
 
@@ -65,6 +72,7 @@ Link website : [Winvestinc](https://winvestinc.com/)
 - Creating UI components
 - Creating reusable smart components
 - Integration of API
+- React Table 
 
 # EDUCATION
 - Pdp Academy
