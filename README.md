@@ -57,7 +57,7 @@ Link website : [BiznesRivoj](https://www.biznesrivoj.uz/)
 - Refactoring code
 
 Winvvest | Front-end developer | November 2021- February-2022 - Contractor from DrenixIT | 
-Link website : [AmanaTrade](https://amanatrade.com/)
+Link website : [Winvestinc](https://winvestinc.com/)
 - Multiple languages with i18n
 - Converting Figma to HTML/CSS
 - Building Front-end in NextJS Client
