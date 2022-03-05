@@ -28,7 +28,7 @@ I also have experience working in Agile environments, on remote teams, and with 
 - OS : MacOS, Windows, 7 Ubuntu 16.04, 17.01. 
 
 # Experience 
-Nolbir | Ecomerse | Front-end Developer | January 2022- Present 
+Nolbir | E Commerce | Front-end Developer | January 2022- Present 
 
 - React Table 
 - Optimizing components
