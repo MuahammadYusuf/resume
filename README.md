@@ -46,7 +46,7 @@ Nolbir | C-space - Tashkent | Front-end Developer | December 2021- January-2022 
 - Refactoring code 
 - Add new functions
 
-Hopemedical - Tashkent | Frontend developer | February 2021 - Contractor from Nolbir | 
+Hopemedical - Tashkent | Frontend developer | February 2022 - Contractor from Nolbir | 
 Link website : [Hopemedical](https://www.hopemedical.uz)
 - Multiple languages with next-intl
 - Converting Figma to HTML/CSS
@@ -56,7 +56,7 @@ Link website : [Hopemedical](https://www.hopemedical.uz)
 - SEO of the site
 - Integration of API
 
-BiznesRivoj - Tashkent | Front-end developer | January 2021 - Contractor from Nolbir | 
+BiznesRivoj - Tashkent | Front-end developer | January 2022 - Contractor from Nolbir | 
 Link website : [BiznesRivoj](https://www.biznesrivoj.uz/)
 - Code reviewing
 - Optimizing components 
