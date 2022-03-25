@@ -16,7 +16,7 @@ I also have experience working in Agile environments, on remote teams, and with 
 
 # PROGRAMMING
 - 1 years programming experience
-- 7 months working experience
+- 9 months working experience
 
 # Skills
 
