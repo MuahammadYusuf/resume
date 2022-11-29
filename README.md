@@ -28,7 +28,31 @@ I also have experience working in Agile environments, on remote teams, and with 
 - OS : MacOS, Windows, 7 Ubuntu 16.04, 17.01. 
 
 # Experience 
-Nolbir | E Commerce | Front-end Developer | January 2022- Present 
+Nolbir | Akbar Rich - Tashkent | Front-end Developer | August 2021-present - Contractor from Nolbir
+- Multiple languages with next-intl
+- Converting Figma to HTML/CSS
+- Building Front-end in NextJS
+- Creating UI components
+- Creating reusable smart components
+- Optimizing components
+- Performance optimization 
+- Integration of API
+- Refactoring code 
+- Add new functions
+
+Nolbir | Hadid Motors - Tashkent | Front-end Developer | June 2021- August-2022 - Contractor from Nolbir
+- Multiple languages with next-intl
+- Converting Figma to HTML/CSS
+- Building Front-end in NextJS
+- Creating UI components
+- Creating reusable smart components
+- Optimizing components
+- Performance optimization 
+- Integration of API
+- Refactoring code 
+- Add new functions
+
+Nolbir | E Commerce | Front-end Developer | January 2022- Aprel 2022 
 
 - React Table 
 - Optimizing components
@@ -80,5 +104,5 @@ Link website : [Winvestinc](https://winvestinc.com/)
 
 # LANGUAGES
 - Uzbek - Fluent
-- English - Elementary 
-- Russian - Pre Intermediate
+- English -Pre Intermediate
+- Russian -Elementary
