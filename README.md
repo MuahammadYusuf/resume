@@ -15,8 +15,7 @@ I also have experience working in Agile environments, on remote teams, and with 
 - Tools: Jira, Trello,
 
 # PROGRAMMING
-- 1 years programming experience
-- 9 months working experience
+- 1+ months working experience
 
 # Skills
 
